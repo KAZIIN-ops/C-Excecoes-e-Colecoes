@@ -1,0 +1,17 @@
+C:\Projetos\ExcecoesEmC#\bin\Debug\net6.0\ExcecoesEmC#.exe
+C:\Projetos\ExcecoesEmC#\bin\Debug\net6.0\ExcecoesEmC#.deps.json
+C:\Projetos\ExcecoesEmC#\bin\Debug\net6.0\ExcecoesEmC#.runtimeconfig.json
+C:\Projetos\ExcecoesEmC#\bin\Debug\net6.0\ExcecoesEmC#.dll
+C:\Projetos\ExcecoesEmC#\bin\Debug\net6.0\ExcecoesEmC#.pdb
+C:\Projetos\ExcecoesEmC#\obj\Debug\net6.0\ExcecoesEmC#.csproj.AssemblyReference.cache
+C:\Projetos\ExcecoesEmC#\obj\Debug\net6.0\ExcecoesEmC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ExcecoesEmC#\obj\Debug\net6.0\ExcecoesEmC#.AssemblyInfoInputs.cache
+C:\Projetos\ExcecoesEmC#\obj\Debug\net6.0\ExcecoesEmC#.AssemblyInfo.cs
+C:\Projetos\ExcecoesEmC#\obj\Debug\net6.0\ExcecoesEmC#.csproj.CoreCompileInputs.cache
+C:\Projetos\ExcecoesEmC#\obj\Debug\net6.0\ExcecoesEmC#.dll
+C:\Projetos\ExcecoesEmC#\obj\Debug\net6.0\refint\ExcecoesEmC#.dll
+C:\Projetos\ExcecoesEmC#\obj\Debug\net6.0\ExcecoesEmC#.pdb
+C:\Projetos\ExcecoesEmC#\obj\Debug\net6.0\ExcecoesEmC#.genruntimeconfig.cache
+C:\Projetos\ExcecoesEmC#\obj\Debug\net6.0\ref\ExcecoesEmC#.dll
+C:\Projetos\ExcecoesEmC#\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Projetos\ExcecoesEmC#\obj\Debug\net6.0\ExcecoesEmC#.csproj.CopyComplete

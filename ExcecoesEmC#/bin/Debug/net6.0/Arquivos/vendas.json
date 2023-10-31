@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Produto": "MAterial vendido",
+    "Preco": 2.00,
+    "DataVenda": "2023-10-31T09:23:38.86696-03:00"
+  },
+  {
+    "Id": 2,
+    "Produto": "MAterial vendido",
+    "Preco": 2.00,
+    "DataVenda": "2023-10-31T09:23:38.86696-03:00"
+  }
+]
